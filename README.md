@@ -1,0 +1,4 @@
+- [Лабораторная работа №1: библиотека ввода-вывода на Assembler](https://github.com/tplaymeow/itmo-low-level-programming/tree/main/assignment-io-library)
+- [Лабораторная работа №2: словарь на Assembler](https://github.com/tplaymeow/itmo-low-level-programming/tree/main/assignment-dictionary)
+- [Лабораторная работа №3: поворот картинки](https://github.com/tplaymeow/itmo-low-level-programming/tree/main/assignment-image-rotation)
+- [Лабораторная работа №4: Аллокатор памяти](https://github.com/tplaymeow/itmo-low-level-programming/tree/main/assignment-memory-allocator)
